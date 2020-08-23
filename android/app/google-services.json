@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663595553318",
+    "firebase_url": "https://pokedox-7e6cd.firebaseio.com",
+    "project_id": "pokedox-7e6cd",
+    "storage_bucket": "pokedox-7e6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663595553318:android:0eb24e19fb6e421bd18ce7",
+        "android_client_info": {
+          "package_name": "com.example.pokedox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663595553318-p5hnj4p3ckarq9uj9p7mpk16t8k6jrc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokedox",
+            "certificate_hash": "3bb1bd42703ea302843370f95cf6a22aeb430435"
+          }
+        },
+        {
+          "client_id": "663595553318-nfacb5nuf45io94gouha3bmp6v0th0tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1LdFi1hhKawW4gHu-xbS_RZt4f3Zf8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663595553318-nfacb5nuf45io94gouha3bmp6v0th0tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
